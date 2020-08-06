@@ -2,8 +2,7 @@
 
 Please use the naming conventions and other guidelines below:
 
-**Repository Name:** <Month>-<Year>-WaiLEARN-<ProjectName>
-  
+**Repository Name:** Month-Year-WaiLEARN-ProjectName  
 
 **Repository Readme Template:**
 
