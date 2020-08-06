@@ -2,11 +2,11 @@
 
 Please use the naming conventions and other guidelines below:
 
-**Repository Name:** Month-Year-WaiLEARN-ProjectName  
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Repository Name:** Month-Year-WaiLEARN-ProjectName  
 
 ---
 
-**Repository Readme Template:**
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Repository Readme Template:**
 
 
 # Repository Name
@@ -24,8 +24,9 @@ Short Project/Repository Description (Not more than 5 lines)
 
 ---
 
-# Other Instructions
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Other Instructions**
 
 1. For Project Co-ordinators - Please invite your groups
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
+**in progress**
 
