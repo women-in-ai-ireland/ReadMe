@@ -1,4 +1,4 @@
-# Repository Creation Guideline
+# Repository Creation/Maintenance Guideline
 
 Please use the naming conventions and other guidelines below:
 
