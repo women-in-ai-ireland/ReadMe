@@ -42,8 +42,8 @@ Steps:
 <h2><a href="">Contributors</a></h2>
 <p><strong>Contri Buter</strong> | <a href="https://www.linkedin.com/in/contributer/">LinkedIn</a>|<a href="https://github.com/contributer">GitHub</a></br><p>
 ```
-  
-8. Commit and refresh. You'd see the Contributors section appear on the left hand column of the GitHub IO Page.
+
+8. Commit and refresh. You'd see the Contributors section appear on the left hand column of the GitHub IO Page. Add more contributors in the same way.
 
 
 Feel free to experiment with your GitHub IO Page. Contact (Nabanita Roy)[https://www.linkedin.com/in/nabanita-roy/] (nabanita@womeninai.co) for any questions/troubleshooting GitHub IO Pages.
