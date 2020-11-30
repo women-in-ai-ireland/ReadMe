@@ -2,7 +2,7 @@
 
 Please use the naming conventions and other guidelines below:
 
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Repository Name:** Month-Year-WaiLEARN-ProjectName  
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Repository Name:** Month-Year-WaiPRACTICE-ProjectName  
 
 ---
 
