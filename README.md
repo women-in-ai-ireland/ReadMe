@@ -38,8 +38,8 @@ Steps:
 6. Update your logo with the logo available in this repository's gh-pages branch, copy the config file and make appropritae changes.
 7. Create a new folder \_layouts and copy the file default.html from this repository and add the following at line 41.
 
-<h2><a href="">Contributors</a></h2>
-<p><strong>Contri Buter</strong> | <a href="https://www.linkedin.com/in/contributer/">LinkedIn</a>|<a href="https://github.com/contributer">GitHub</a></br><p>
+```<h2><a href="">Contributors</a></h2>
+<p><strong>Contri Buter</strong> | <a href="https://www.linkedin.com/in/contributer/">LinkedIn</a>|<a href="https://github.com/contributer">GitHub</a></br><p>```
   
 8. Commit and refresh. You'd see the Contributors section appear on the left hand column of the GitHub IO Page.
 
