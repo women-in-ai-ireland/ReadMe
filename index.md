@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Blog Heading
+
+Add contents of your blog here. Read the instructions and get familiarised with mardown syntac from Git below that comes OOB with creating the page.
 
 You can use the [editor on GitHub](https://github.com/women-in-ai-ireland/Repository-Maintenance-Guidelines/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
